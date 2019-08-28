@@ -21,6 +21,6 @@ public class NewTest {
 	        get("data/2.5/weather").
 	        then().assertThat().statusCode(200).and().contentType(ContentType.JSON).and().body("base",equalTo("stations"));
 	        //body("0.type".equals("m"))
-*/	  System.out.println("pass");
+*/	  System.out.println("pass1");
   }
 }
