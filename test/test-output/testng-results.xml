@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20960" started-at="2019-08-24T08:52:13Z" finished-at="2019-08-24T08:52:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20960" started-at="2019-08-24T08:52:13Z" finished-at="2019-08-24T08:52:34Z">
+      <class name="test.JiraApiTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.JiraApiTest@129a8472]" name="setup" is-config="true" duration-ms="41" started-at="2019-08-24T14:22:13Z" finished-at="2019-08-24T14:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testCreateIssue()[pri:0, instance:test.JiraApiTest@129a8472]" name="testCreateIssue" duration-ms="19431" started-at="2019-08-24T14:22:13Z" finished-at="2019-08-24T14:22:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateIssue -->
+      </class> <!-- test.JiraApiTest -->
+      <class name="test.ReportandUpdateComment">
+        <test-method status="PASS" signature="reportComment()[pri:0, instance:test.ReportandUpdateComment@1b0375b3]" name="reportComment" duration-ms="1046" started-at="2019-08-24T14:22:32Z" finished-at="2019-08-24T14:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportComment -->
+        <test-method status="PASS" signature="updateComment()[pri:0, instance:test.ReportandUpdateComment@1b0375b3]" name="updateComment" duration-ms="411" started-at="2019-08-24T14:22:33Z" finished-at="2019-08-24T14:22:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateComment -->
+      </class> <!-- test.ReportandUpdateComment -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

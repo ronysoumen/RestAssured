@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80728" started-at="2019-08-26T03:25:45Z" finished-at="2019-08-26T03:27:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80728" started-at="2019-08-26T03:25:45Z" finished-at="2019-08-26T03:27:06Z">
+      <class name="RestAssured_Automation.RestAssured.New1Test">
+        <test-method status="PASS" signature="Hooq()[pri:0, instance:RestAssured_Automation.RestAssured.New1Test@7a0ac6e3]" name="Hooq" duration-ms="80694" started-at="2019-08-26T08:55:45Z" finished-at="2019-08-26T08:57:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hooq -->
+      </class> <!-- RestAssured_Automation.RestAssured.New1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
